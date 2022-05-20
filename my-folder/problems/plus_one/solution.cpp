@@ -1,23 +1,24 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& digits) {
-     ios_base::sync_with_stdio(0);
-     cin.tie(0);
-     cout.tie(0);
-     for (int i = digits.size() - 1; i >= 0; i--)
-     {
-          if (i == 0 && digits[i] == 9) {
-               digits[i] = 0; 
-               digits.insert(digits.begin(), 1); 
-          }
-          else if (digits[i] != 9) {
-               digits[i]++; 
-               break; 
-          }
-          else {
-               digits[i] = 0; 
-          }
-     }
-        return digits; 
+    vector<int> plusOne(vector<int>& digits) { 
+        int k = digits.size()-1;
+        while(true){
+            if(k==0 && digits[k]==9){
+                digits[k] = 0 ; 
+                digits.push_back(1); 
+                reverse(digits.begin(),digits.end());
+                break;
+            }
+            if(digits[k]+1<10){
+                digits[k]++;
+                break; 
+            }
+            else{
+                digits[k]=0 ; 
+                k--; 
+            }
+        }
+    return digits ; 
+        
     }
 };
