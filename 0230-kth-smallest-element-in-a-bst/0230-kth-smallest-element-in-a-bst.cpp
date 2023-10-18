@@ -12,14 +12,14 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> numbers ;
-        dfs(root,numbers); 
-        sort(numbers.begin(),numbers.end()); 
-        return numbers[k-1]; 
+        int res = -1,cnt=0;
+        dfs(root,res,cnt,k);  
+        return res; 
     }
-    void dfs(TreeNode* node, vector<int>& numbers){
-        if(node->left) dfs(node->left,numbers); 
-        numbers.push_back(node->val);
-        if(node->right) dfs(node->right,numbers); 
+    void dfs(TreeNode* node,int& res,int& cnt, int k ){
+        if(node->left) dfs(node->left,res,cnt,k);
+        cnt++;  
+        if(cnt == k) res = node->val; 
+        if(node->right) dfs(node->right,res,cnt,k); 
     }
 };
