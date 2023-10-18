@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        set<int> seen; 
+        unordered_set<int> seen; 
         while(n!=1 && !seen.count(n)){
             seen.insert(n);
             int sum = 0;  
