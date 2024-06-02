@@ -16,3 +16,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
+# Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
