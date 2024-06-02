@@ -20,7 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
 # Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+# Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
