@@ -29,3 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0724-find-pivot-index) |
+# Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+# Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+# Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
