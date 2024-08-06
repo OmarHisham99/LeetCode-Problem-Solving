@@ -49,3 +49,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+<!---LeetCode Topics End-->
