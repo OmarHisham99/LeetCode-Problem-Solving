@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2551-apply-operations-to-an-array](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/OmarHisham99/LeetCode-Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
